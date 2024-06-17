@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eer xmlns="http://www.informatik.uni-oldenburg.de/2006/EER-Designer/EER">
+    <head>
+        <name>new (e)er-diagram</name>
+    </head>
+    <model>
+        <entity id="00001" weak="false">
+            <name>Entity</name>
+            <attributes />
+        </entity>
+    </model>
+    <view scaleSize="50" fontSize="12" notation="0">
+        <node idref="00001">
+            <pointAnchor x="10.8" y="4.66" />
+        </node>
+    </view>
+</eer>
+
